@@ -46,5 +46,4 @@ for (let i = 0; i < numeroDeIteracoes; i++) {
         heroi.atacar();
     }
 
-    console.log("-------------");
 }
